@@ -3,4 +3,15 @@
     border-radius: 15px;
     grid-area: n;
     background-color: #d49ef3;
+    padding: 20px;
+  }
+
+  .item {
+    color: white;
+    text-decoration: none;
+  }
+
+  .active {
+    color: black;
+    text-decoration: none;
   }
