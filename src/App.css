@@ -19,3 +19,14 @@
 .header img {
   width: 50px;
 }
+
+.app-wrapper-content {
+    grid-area: c;
+    border-radius: 15px;
+    background-color: cornflowerblue;
+}
+
+.app-wrapper-content img {
+  border-radius: 15px;
+  width: 70%;
+}
