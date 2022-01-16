@@ -10,20 +10,11 @@
   /* grid-gap: 10px; */
 }
 
-.header {
-  grid-area: h;
-  background-color: #d8c7ad;
-  border-radius: 15px;
-}
-
-.header img {
-  width: 50px;
-}
-
 .app-wrapper-content {
     grid-area: c;
     border-radius: 15px;
     background-color: cornflowerblue;
+    padding: 10px;
 }
 
 .app-wrapper-content img {
