@@ -1,6 +1,5 @@
-import React from "react"
+import * as React from 'react'
 import s from './ProfileInfo.module.css'
-import Post from "../MyPosts/Post/Post"
 
 const ProfileInfo = () => {
     return (
