@@ -13,11 +13,18 @@
 .app-wrapper-content {
     grid-area: c;
     border-radius: 15px;
-    background-color: cornflowerblue;
+    background-color: #FFFFFF;
     padding: 10px;
+    border: 1px solid #91c4ff;
+    margin-top: 5px;
 }
 
 .app-wrapper-content img {
   border-radius: 15px;
   width: 70%;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #eeeeee;
 }

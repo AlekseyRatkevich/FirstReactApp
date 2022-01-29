@@ -1,7 +1,35 @@
 .item {
-    color: greenyellow;
+    display: flex;
+    align-items: center;
+    color: black;
+    border: 1px solid #91c4ff;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 .item img {
     width: 50px;
+}
+
+.postContainer {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.postUsername {
+    margin: 10px;
+    color: black;
+}
+
+.postText {
+    font-size: 14px;
+    color: #858585;
+}
+
+.postLike {
+    cursor: pointer;
+    color: rgb(255, 135, 87);
 }

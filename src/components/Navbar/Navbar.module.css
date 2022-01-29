@@ -1,8 +1,15 @@
 .nav {
+  height: 600px;
   border-radius: 15px;
   grid-area: n;
-  background-color: #d49ef3;
+  background-color: #91c4ff;
   padding: 20px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.nav a {
+  margin-bottom: 10px;
 }
 
 .item {
